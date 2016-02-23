@@ -11,6 +11,11 @@
     "url": "git+https://github.com/barsh/true-case-path.git"
   },
   "author": "barsh",
+  "contributors": [{
+      "name" : "Michael Klement",
+      "email" : "mklement0@gmail.com",
+      "url" : "https://github.com/mklement0"
+  }],
   "license": "Apache version 2.0",
   "bugs": {
     "url": "https://github.com/barsh/true-case-path/issues"

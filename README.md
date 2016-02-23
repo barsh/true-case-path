@@ -46,3 +46,7 @@ trueCasePathSync('/users/guest') // OSX: -> '/Users/Guest'
 
 trueCasePathSync('c:\\users\\all users') // Windows: -> 'c:\Users\All Users'
 ```
+
+## Attribution
+
+The code for this project was sourced from [http://stackoverflow.com/a/33139702/45375](http://stackoverflow.com/a/33139702/45375)

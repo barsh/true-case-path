@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/barsh/true-case-path#readme",
   "dependencies": {
-    "glob": "^6.0.4"
+    "glob": "^7.1.2"
   }
 }

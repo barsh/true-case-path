@@ -1,6 +1,6 @@
 {
   "name": "true-case-path",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Given a possibly case-variant version of an existing filesystem path, returns the case-exact, normalized version as stored in the filesystem.",
   "main": "index.js",
   "scripts": {
